@@ -19,11 +19,13 @@
             <nuxt-link to="/gallery"> gallery </nuxt-link>
           </a> -->
 
-          <a
-            class="py-2 px-3 ml-2 hover:bg-indigo-400 bg-indigo-500 rounded shadow-lg text-white"
+          <nuxt-link to="/reportCard"
+            ><a
+              class="py-2 px-3 ml-2 hover:bg-indigo-400 bg-indigo-500 rounded shadow-lg text-white"
+            >
+              Report Card
+            </a></nuxt-link
           >
-            <nuxt-link to="/reportCard"> Report Card </nuxt-link>
-          </a>
         </div>
       </div>
     </div>
