@@ -8,7 +8,7 @@
           </nuxt-link>
         </div>
 
-        <div class="my-auto">
+        <div class="flex my-auto">
           <nuxt-link to="/students"
             ><p class="py-2 px-3 ml-2 hover:bg-indigo-500 rounded">students</p></nuxt-link
           >
