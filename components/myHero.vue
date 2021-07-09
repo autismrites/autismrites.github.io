@@ -13,18 +13,18 @@
       </p>
     </div>
 
-    <div class="">
-      <a
+    <div class="flex">
+      <p
         class="py-2 px-4 md:py-4 md:px-6 mr-2 border select-none hover:bg-indigo-400 bg-indigo-500 rounded shadow-lg text-white"
-        ><nuxt-link to="/contact"> Get Intro </nuxt-link></a
       >
+        <nuxt-link to="/contact"> Get Intro </nuxt-link>
+      </p>
 
-      <a
-        href="#"
+      <p
         class="py-2 px-4 md:py-4 md:px-6 border select-none hover:bg-gray-100 bg-white rounded shadow-lg text-indigo-800"
       >
         Get Started <span>&rarr;</span>
-      </a>
+      </p>
     </div>
   </div>
 </template>
