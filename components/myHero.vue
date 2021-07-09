@@ -13,7 +13,7 @@
       </p>
     </div>
 
-    <div class="flex">
+    <div>
       <p
         class="py-2 px-4 md:py-4 md:px-6 mr-2 border select-none hover:bg-indigo-400 bg-indigo-500 rounded shadow-lg text-white"
       >
