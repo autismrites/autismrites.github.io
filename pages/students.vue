@@ -8,7 +8,7 @@
               <img
                 class="object-cover"
                 src="https://raw.githubusercontent.com/vuetailwind/storage/master/cards/card-1.jpg"
-                alt="card 1"
+                alt="Najmi's Game"
               />
             </a>
           </div>
@@ -36,7 +36,7 @@
               <img
                 class="object-cover"
                 src="https://raw.githubusercontent.com/vuetailwind/storage/master/cards/card-1.jpg"
-                alt="card 1"
+                alt="Abdul Rahman's Game"
               />
             </a>
           </div>
@@ -66,7 +66,7 @@
               <img
                 class="object-cover"
                 src="https://raw.githubusercontent.com/vuetailwind/storage/master/cards/card-1.jpg"
-                alt="card 1"
+                alt="Abdullah's Game"
               />
             </a>
           </div>
@@ -94,7 +94,7 @@
               <img
                 class="object-cover"
                 src="https://raw.githubusercontent.com/vuetailwind/storage/master/cards/card-1.jpg"
-                alt="card 1"
+                alt="Faiq's Game"
               />
             </a>
           </div>
