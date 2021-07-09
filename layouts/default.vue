@@ -4,20 +4,26 @@
       <div class="flex justify-between">
         <div class="text-3xl">
           <nuxt-link to="/">
-            <h1>Creative<span class="font-bold">Khayr</span>Studio</h1>
+            <div>
+              <h1>Creative<span class="font-bold">Khayr</span>Studio</h1>
+            </div>
           </nuxt-link>
         </div>
 
         <div class="my-auto">
-          <a class="py-2 px-3 ml-2 hover:bg-indigo-500 rounded">
-            <nuxt-link to="/students"> students </nuxt-link>
-          </a>
-          <a class="py-2 px-3 ml-2 hover:bg-indigo-500 rounded">
-            <nuxt-link to="/challenge"> challenge </nuxt-link>
-          </a>
-          <!-- <a class="py-2 px-3 ml-2 hover:bg-indigo-500 rounded">
-            <nuxt-link to="/gallery"> gallery </nuxt-link>
-          </a> -->
+          <nuxt-link to="/students"
+            ><a class="py-2 px-3 ml-2 hover:bg-indigo-500 rounded">
+              students
+            </a></nuxt-link
+          >
+          <nuxt-link to="/challenge"
+            ><a class="py-2 px-3 ml-2 hover:bg-indigo-500 rounded">
+              challenge
+            </a></nuxt-link
+          >
+          <!-- <nuxt-link to="/gallery"><a class="py-2 px-3 ml-2 hover:bg-indigo-500 rounded">
+             gallery 
+          </a></nuxt-link> -->
 
           <nuxt-link to="/reportCard"
             ><a
