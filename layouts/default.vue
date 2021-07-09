@@ -15,9 +15,9 @@
           <a class="py-2 px-3 ml-2 hover:bg-indigo-500 rounded">
             <nuxt-link to="/challenge"> challenge </nuxt-link>
           </a>
-          <a class="py-2 px-3 ml-2 hover:bg-indigo-500 rounded">
+          <!-- <a class="py-2 px-3 ml-2 hover:bg-indigo-500 rounded">
             <nuxt-link to="/gallery"> gallery </nuxt-link>
-          </a>
+          </a> -->
 
           <a
             class="py-2 px-3 ml-2 hover:bg-indigo-400 bg-indigo-500 rounded shadow-lg text-white"
