@@ -4,8 +4,8 @@
       <h1 class="text-4xl">Welcome to Remix Challenge</h1>
       <p class="text-lg">can you make a better version of these games?</p>
     </div>
-    <div class="flex justify-center">
-      <div class="mx-auto max-w-xl my-12 py-8">
+    <div class="grid grid-flow-col auto-cols-max gap-8 justify-center">
+      <div class="max-w-xl my-12 py-8">
         <div class="flex justify-center">
           <iframe
             src="https://scratch.mit.edu/projects/501185474/embed"
@@ -38,7 +38,7 @@
           </div>
         </div>
       </div>
-      <div class="mx-auto max-w-xl my-12 py-8">
+      <div class="max-w-xl my-12 py-8">
         <div class="flex justify-center">
           <iframe
             src="https://scratch.mit.edu/projects/501409390/embed"
@@ -72,7 +72,7 @@
           </div>
         </div>
       </div>
-      <div class="mx-auto max-w-xl my-12 py-8">
+      <div class="max-w-xl my-12 py-8">
         <div class="flex justify-center">
           <iframe
             src="https://scratch.mit.edu/projects/551033574/embed"
