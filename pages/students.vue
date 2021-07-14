@@ -1,14 +1,14 @@
 <template>
   <div class="mx-auto max-w-2xl my-12">
-    <div class="text-left mb-8 font-serif">
+    <!-- <div class="text-left mb-8 font-serif">
       <h1 class="text-gray-800 text-4xl font-bold mb-2">Students Game Studios</h1>
 
-      <!-- change "border-indigo-500" to change the color -->
+      
       <div
         class="border-indigo-500 border-b-2 border-t-2 w-32 md:w-40 rounded mb-16"
       ></div>
-    </div>
-    <div class="mb-4 border-l-4 rounded px-4 py-3 bg-gray-100">
+    </div> -->
+    <!-- <div class="mb-4 border-l-4 rounded px-4 py-3 bg-gray-100">
       <div class="flex items-start">
         <div class="py-1">
           <svg
@@ -28,9 +28,9 @@
           <p class="text-sm text-gray-800">Students Game Studio is under development</p>
         </div>
       </div>
-    </div>
+    </div> -->
 
-    <div class="flex justify-evenly mb-8">
+    <!-- <div class="flex justify-evenly mb-8">
       <div class="mx-auto max-w-xl py-8">
         <div class="rounded w-full md:w-64 overflow-hidden">
           <div>
@@ -145,7 +145,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
     <assignment />
   </div>
 </template>

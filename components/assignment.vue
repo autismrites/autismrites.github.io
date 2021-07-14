@@ -1,9 +1,8 @@
 <template>
   <div>
     <div class="text-left mb-8 font-serif">
-      <h1 class="text-gray-800 text-4xl font-bold mb-2">
-        Students English Assignment - 12 July 2021
-      </h1>
+      <h1 class="text-gray-800 text-4xl font-bold mb-2">Students English Assignment</h1>
+      <p class="text-gray-800 text-2xl mb-2">12 July 2021</p>
 
       <!-- change "border-indigo-500" to change the color -->
       <div class="border-indigo-500 border-b-2 border-t-2 w-32 md:w-40 rounded"></div>
@@ -34,8 +33,8 @@
           Interview Relatives who are in their 20’s, 40’s, 60’s
         </h3>
         <ul class="text-lg">
-          <li class="mb-3">&bull; How they used to send messages</li>
-          <li class="mb-3">&bull; How they used to travel</li>
+          <li class="mb-3">&bull; How did they used to send messages</li>
+          <li class="mb-3">&bull; How did they travel</li>
           <li class="mb-3">
             &bull; What technology that exists today, that didn't exist 20, 40 and 60
             years ago.
@@ -46,9 +45,8 @@
     </div>
 
     <div class="text-left mb-8 font-serif">
-      <h1 class="text-gray-800 text-4xl font-bold mb-2">
-        Students Scratch Assignment - 10 July 2021
-      </h1>
+      <h1 class="text-gray-800 text-4xl font-bold mb-2">Students Scratch Assignment</h1>
+      <p class="text-gray-800 text-2xl mb-2">10 July 2021</p>
 
       <!-- change "border-indigo-500" to change the color -->
       <div class="border-indigo-500 border-b-2 border-t-2 w-32 md:w-40 rounded"></div>
