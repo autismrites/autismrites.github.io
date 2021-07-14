@@ -30,7 +30,7 @@
           >
         </div>
         <p class="text-center text-gray-300 mb-2">
-          please rotate your mobile device for better view
+          please rotate your mobile device to landscape for better view
         </p>
       </div>
     </div>
