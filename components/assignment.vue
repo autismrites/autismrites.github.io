@@ -8,7 +8,7 @@
       <div class="border-indigo-500 border-b-2 border-t-2 w-32 md:w-40 rounded"></div>
     </div>
 
-    <div class="grid justify-center grid-flow-col gap-8 auto-cols-max mb-8">
+    <div class="grid justify-center mb-8">
       <div>
         <div class="text-center mb-8">
           <h1 class="text-4xl mb-2">Interviewing Guides</h1>
