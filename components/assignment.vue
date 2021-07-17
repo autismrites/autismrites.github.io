@@ -44,6 +44,12 @@
       </div>
     </div>
 
+    <button
+      class="mb-10 px-6 py-4 bg-purple-700 hover:bg-purple-400 text-white font-bold shadow-md outline-none rounded-lg"
+    >
+      <a href="https://bit.ly/3iiE95d">English Assignment Portal</a>
+    </button>
+
     <div class="text-left mb-8 font-serif">
       <h1 class="text-gray-800 text-4xl font-bold mb-2">Students Scratch Assignment</h1>
       <p class="text-gray-800 text-2xl mb-2">10 July 2021</p>

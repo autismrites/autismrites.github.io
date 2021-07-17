@@ -108,6 +108,25 @@
         </div>
       </div>
     </div>
+    <div class="my-12 text-center font-serif">
+      <h1 class="text-4xl">Welcome to Debugging Challenge</h1>
+      <p class="text-lg">can you fix of these games?</p>
+    </div>
+    <div class="grid grid-flow-row justify-center">
+      <div class="max-w-xl my-4 py-8">
+        <div class="flex justify-center">
+          <iframe
+            src="https://scratch.mit.edu/projects/553194635/embed"
+            allowtransparency="true"
+            width="485"
+            height="402"
+            frameborder="0"
+            scrolling="no"
+            allowfullscreen
+          ></iframe>
+        </div>
+      </div>
+    </div>
   </div>
 </template>
 
