@@ -36,7 +36,7 @@
     </div>
 
     <Nuxt />
-    <div class="py-32 bg-gray-800">
+    <div class="py-32 bg-gray-800 -m-4">
       <h1 class="text-4xl text-gray-100 mx-auto text-center">
         Creative<span class="font-bold">Khayr</span>Studios -
         <span class="font-light">Empowering & Guiding Young Minds</span>
