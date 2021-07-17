@@ -1,6 +1,6 @@
 <template>
-  <div>
-    <div class="bg-purple-700 text-white px-12 py-4 align-middle">
+  <div class="px-4">
+    <div class="bg-purple-700 -m-4 text-white px-12 py-4 align-middle">
       <div class="text-center">
         <div class="text-3xl my-4">
           <nuxt-link to="/">
@@ -36,5 +36,11 @@
     </div>
 
     <Nuxt />
+    <div class="py-32 bg-gray-800">
+      <h1 class="text-4xl text-gray-100 mx-auto text-center">
+        Creative<span class="font-bold">Khayr</span>Studios -
+        <span class="font-light">Empowering & Guiding Young Minds</span>
+      </h1>
+    </div>
   </div>
 </template>
