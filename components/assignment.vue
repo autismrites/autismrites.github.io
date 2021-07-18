@@ -26,11 +26,11 @@
       <div class="border-indigo-500 border-b-2 border-t-2 w-32 md:w-40 rounded"></div>
     </div>
     <p class="mb-10">
-      In this assigmnet, you will investigate what is wrong with the code and find a
+      In this assignment, you will investigate what is wrong with the code and find a
       solution for each of the five Debugging challenges.
     </p>
     <div>
-      <div class="grid grid-flow-col gap-4 mb-10">
+      <div class="grid sm:justify-center sm:grid-cols-3 md:grid-cols-5 gap-4 mb-10">
         <a href="https://scratch.mit.edu/projects/24271192" target="#"
           ><button class="btn-indigo">Debug-it 4.1</button></a
         >
