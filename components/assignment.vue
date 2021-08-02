@@ -20,6 +20,27 @@
     </p>
 
     <div class="text-left mb-8 font-serif">
+      <h1 class="text-gray-800 text-4xl font-bold mb-2">English Assignment</h1>
+      <p class="text-gray-800 text-2xl mb-2">02 August 2021</p>
+
+      <!-- change "border-indigo-500" to change the color -->
+      <div class="border-indigo-500 border-b-2 border-t-2 w-32 md:w-40 rounded"></div>
+    </div>
+
+    <div class="grid justify-center mb-8">
+      <div>
+        <div class="text-center mb-8">
+          <h1 class="text-4xl mb-2">Fun With Word Search</h1>
+          <h3 class="text-xl">Create your own word search and challenge your friends!</h3>
+          <h3 class="text-xl">Instructions will be in the English Assignment Portal</h3>
+        </div>
+      </div>
+    </div>
+
+    <a class="flex justify-center" href="https://bit.ly/3iiE95d" target="#"
+      ><button class="btn-indigo mb-16">English Assignment Portal</button></a
+    >
+    <div class="text-left mb-8 font-serif">
       <h1 class="text-gray-800 text-4xl font-bold mb-2">Scratch Assignment</h1>
       <p class="text-gray-800 text-2xl mb-2">17 July 2021</p>
 
@@ -32,71 +53,22 @@
     <div>
       <div class="grid sm:justify-center sm:grid-cols-3 md:grid-cols-5 gap-4 mb-10">
         <a href="https://scratch.mit.edu/projects/24271192" target="#"
-          ><button class="btn-indigo">Debug-it 4.1</button></a
+          ><button class="btn-indigo-done">Debug-it 4.1</button></a
         >
         <a href="https://scratch.mit.edu/projects/24271303" target="#"
-          ><button class="btn-indigo">Debug-it 4.2</button></a
+          ><button class="btn-indigo-done">Debug-it 4.2</button></a
         >
         <a href="https://scratch.mit.edu/projects/24271446" target="#"
-          ><button class="btn-indigo">Debug-it 4.3</button></a
+          ><button class="btn-indigo-done">Debug-it 4.3</button></a
         >
         <a href="https://scratch.mit.edu/projects/24271475" target="#"
-          ><button class="btn-indigo">Debug-it 4.4</button></a
+          ><button class="btn-indigo-done">Debug-it 4.4</button></a
         >
         <a href="https://scratch.mit.edu/projects/24271560" target="#"
           ><button class="btn-indigo">Debug-it 4.5</button></a
         >
       </div>
 
-      <div class="text-left mb-8 font-serif">
-        <h1 class="text-gray-800 text-4xl font-bold mb-2">English Assignment</h1>
-        <p class="text-gray-800 text-2xl mb-2">12 July 2021</p>
-
-        <!-- change "border-indigo-500" to change the color -->
-        <div class="border-indigo-500 border-b-2 border-t-2 w-32 md:w-40 rounded"></div>
-      </div>
-
-      <div class="grid justify-center mb-8">
-        <div>
-          <div class="text-center mb-8">
-            <h1 class="text-4xl mb-2">Interviewing Guides</h1>
-            <h3 class="text-xl">What NOT to do</h3>
-          </div>
-          <ul class="text-lg">
-            <li class="mb-3">
-              &bull; Don’t ask something that you already know the answer to
-            </li>
-            <li class="mb-3">&bull; Don’t answer your own questions</li>
-            <li class="mb-3">&bull; Don’t speak more than the interviewee</li>
-            <li class="mb-3">&bull; Don’t show agreement or disagreement</li>
-            <li class="mb-3">&bull; Don’t forget to take notes!!!</li>
-          </ul>
-        </div>
-        <div>
-          <div class="text-center mb-8">
-            <h1 class="text-4xl mb-2">Historic Research</h1>
-            <h3 class="text-xl">Yes, it's homework! :)</h3>
-          </div>
-          <h3 class="mb-6 text-2xl">
-            Interview Relatives who are in their 20’s, 40’s, 60’s
-          </h3>
-          <ul class="text-lg">
-            <li class="mb-3">&bull; How did they used to send messages</li>
-            <li class="mb-3">&bull; How did they travel</li>
-            <li class="mb-3">
-              &bull; What technology that exists today, that didn't exist 20, 40 and 60
-              years ago.
-            </li>
-            <li class="mb-3">&bull; What they did to have fun when they were your age</li>
-          </ul>
-        </div>
-      </div>
-
-      <a href="https://bit.ly/3iiE95d" target="#"
-        ><button class="btn-indigo mb-10">English Assignment Portal</button></a
-      >
-
-      <div></div>
       <div class="text-left mb-8 font-serif">
         <h1 class="text-gray-800 text-4xl font-bold mb-2">Scratch Assignment</h1>
         <p class="text-gray-800 text-2xl mb-2">10 July 2021</p>

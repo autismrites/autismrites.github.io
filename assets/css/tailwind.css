@@ -7,6 +7,10 @@
     @apply px-6 py-4 bg-purple-700 hover:bg-purple-400 text-white font-bold shadow-md outline-none rounded-lg;
   }
 
+  .btn-indigo-done {
+    @apply px-6 py-4 bg-gray-400 hover:bg-gray-300 text-white font-bold shadow-md outline-none rounded-lg;
+  }
+
   .btn-outline {
     @apply px-6 py-4 border border-purple-700 font-bold hover:shadow-md outline-none rounded-lg cursor-default;
   }
