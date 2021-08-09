@@ -30,8 +30,10 @@
     <div class="grid justify-center mb-8">
       <div>
         <div class="text-center mb-8">
-          <h1 class="text-4xl mb-2">Fun With Word Search</h1>
-          <h3 class="text-xl">Create your own word search and challenge your friends!</h3>
+          <h1 class="text-4xl mb-2">Create Your Own Adventure Story</h1>
+          <h3 class="text-xl">
+            Create your own Adveture Story and challenge your friends!
+          </h3>
           <h3 class="text-xl">Instructions will be in the English Assignment Portal</h3>
         </div>
       </div>

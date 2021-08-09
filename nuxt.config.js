@@ -2,7 +2,7 @@ export default {
   target: "static",
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: "superscratchers",
+    title: "SuperStudents",
     htmlAttrs: {
       lang: "en"
     },
