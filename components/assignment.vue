@@ -21,7 +21,7 @@
 
     <div class="text-left mb-8 font-serif">
       <h1 class="text-gray-800 text-4xl font-bold mb-2">English Assignment</h1>
-      <p class="text-gray-800 text-2xl mb-2">02 August 2021</p>
+      <p class="text-gray-800 text-2xl mb-2">11 August 2021</p>
 
       <!-- change "border-indigo-500" to change the color -->
       <div class="border-indigo-500 border-b-2 border-t-2 w-32 md:w-40 rounded"></div>
